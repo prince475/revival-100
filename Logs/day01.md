@@ -1,9 +1,10 @@
-# Day 1 – July 11, 2025
+# Day 1 – July 24, 2025
 
 **Project**: [MERN Blog App](../react-relearn/blog-app)
+**Project**: [carscrapbook-app](../react-relearn/carscrapbook-app)
 
 **Progress**:
-- Initialized React project with Vite
+- Initialized React project (carscrapbook-app) with Vite
 - Installed and configured Tailwind CSS
 
 
