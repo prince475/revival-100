@@ -1,6 +1,7 @@
 # Day 1 – July 24, 2025
 
 **Project**: [MERN Blog App](../react-relearn/blog-app)
+
 **Project**: [carscrapbook-app](../react-relearn/carscrapbook-app)
 
 **Progress**:
