@@ -8,8 +8,8 @@ This is my personal journey to rebuild momentum, sharpen my skills, and push thr
 
 ## 📅 Round 1 Log
 
-**Start Date**: July 12, 2025  
-**End Date**: October 20, 2025
+**Start Date**: July 22, 2025  
+**End Date**: October 30, 2025
 
 ## 🎯 Goals
 
